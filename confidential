@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – ChariotExpress</title>
+</head>
+<body>
+  <h1>Privacy Policy – ChariotExpress</h1>
+
+  <p>This application collects and uses personal data to provide its services.</p>
+
+  <h2>Data collected</h2>
+  <ul>
+    <li>Email address</li>
+    <li>User account information</li>
+    <li>App usage data</li>
+  </ul>
+
+  <h2>How data is used</h2>
+  <ul>
+    <li>To authenticate users</li>
+    <li>To provide app features</li>
+    <li>To improve the application</li>
+  </ul>
+
+  <h2>Data sharing</h2>
+  <p>No personal data is sold or shared with third parties.</p>
+
+  <h2>Data security</h2>
+  <p>All data is transmitted securely using encryption.</p>
+
+  <h2>Account deletion</h2>
+  <p>
+    Users can request account deletion here:
+    <a href="https://rrrt-sct.github.io/suppress-chariot/">Account deletion page</a>
+  </p>
+
+  <h2>Contact</h2>
+  <p>Email: cozzyrocket@gmail.com</p>
+</body>
+</html>
